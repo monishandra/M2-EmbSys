@@ -2,8 +2,7 @@
 
 # Abstract 
 This project is simulation project . For designing this project we used simulIDE. And for compilation of c language code we used ArduinoIDE . In this project we can automatically control ths water supply tant in our home. In this project is done by using Arduino. I used Ultrasonic Sensor for measuring water tank . I used Servo motor for opening and closing valve . 
-# Block Diagram
-![Block_diagram](https://user-images.githubusercontent.com/98832647/155829963-069490ff-8a31-412b-8353-048190e6a296.png)
+
 # Requirements 
 ## Highlevel Requirements
 |  ID  |   Discription  |
