@@ -20,7 +20,7 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
-int duration,distance,posisi=0,i;
+int duration,distance,i;
   digitalWrite(triPin, LOW);
   delayMicroseconds(2);
   digitalWrite(triPin, HIGH);
