@@ -8,4 +8,3 @@ This project is simulation project . For designing this project we used simulIDE
          Arduino  is an open-source hardware and software company, project, and user community that designs and manufactures single-board microcontrollers and microcontroller                kits for building digital devices.
 ## Codacy Badge
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/22fa739da85e43279261d2c2cd7f38c2)](https://www.codacy.com/gh/monishandra/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=monishandra/M2-EmbSys&amp;utm_campaign=Badge_Grade)
-## 
