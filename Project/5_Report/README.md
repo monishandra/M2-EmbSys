@@ -62,6 +62,16 @@ This code is designed in such a way that we have to give certain input value upt
 ## Structural Diagrams
 ### Block Diagram
 ![Block_diagram](https://user-images.githubusercontent.com/98832647/155829963-069490ff-8a31-412b-8353-048190e6a296.png)
+## Code
+![Code1](https://user-images.githubusercontent.com/98832647/157169824-07fed75e-839a-4536-983e-29f31b2ac7ee.png)
+![code2](https://user-images.githubusercontent.com/98832647/157169791-60c8026e-0c4f-499e-b7c7-b4b30cb4899b.png)
+## Simulation 
+![Simulation](https://user-images.githubusercontent.com/98832647/157172709-5624e750-6836-4b2c-932b-df021905af06.png)
+## Output
+### Open valve
+![Open](https://user-images.githubusercontent.com/98832647/157172742-6d9bf415-04a5-48f5-9b92-bdc76d8c75b0.png)
+### Close valve
+![Close](https://user-images.githubusercontent.com/98832647/157172788-36fa9cc7-a015-46f2-940d-636f436d4d94.png)
 ## Test Plan And Output
 
 |Test ID |   Discription      | Exp I/P |  Exp O/P     | Actual Output | Pass or Fail  |
@@ -75,13 +85,3 @@ This code is designed in such a way that we have to give certain input value upt
 |  T_07  | if water at level 9|distance = 7|close valve and Led red|close valve and Led red|     Pass      |
 
 **Test plan** Doucmentation is created and output is captured for every possible level Requirements in test case and **verified succesfully.**
-## Code
-![Code1](https://user-images.githubusercontent.com/98832647/157169824-07fed75e-839a-4536-983e-29f31b2ac7ee.png)
-![code2](https://user-images.githubusercontent.com/98832647/157169791-60c8026e-0c4f-499e-b7c7-b4b30cb4899b.png)
-## Simulation 
-![Simulation](https://user-images.githubusercontent.com/98832647/157172709-5624e750-6836-4b2c-932b-df021905af06.png)
-## Output
-### Open valve
-![Open](https://user-images.githubusercontent.com/98832647/157172742-6d9bf415-04a5-48f5-9b92-bdc76d8c75b0.png)
-### Close valve
-![Close](https://user-images.githubusercontent.com/98832647/157172788-36fa9cc7-a015-46f2-940d-636f436d4d94.png)
