@@ -49,3 +49,5 @@ Arduino  is an open-source hardware and software company, project, and user comm
 1  This can be used in Water tanks.
 ### HOW
 This code is designed in such a way that we have to give certain input value upto which the water level is accepted (Threshold). when ever the water reaches the certain level it detects .It will detect by the Ultrasonic sensor which is having transmitter and reciever .If water reaches threshold it detects and elerts us.
+## SWOT 
+![SWOT](https://user-images.githubusercontent.com/98832647/157196123-3b721e22-e58e-4964-9243-95d4506527d1.png)
