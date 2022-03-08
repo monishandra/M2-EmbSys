@@ -21,20 +21,31 @@ Arduino  is an open-source hardware and software company, project, and user comm
     2 It consists of a suitable motor coupled to a sensor for position feedback. 
 ## Requirements 
 ### Highlevel Requirements
-|  ID  |   Discription  |
-|------|----------------|
-| HR_01| Arduino UNO    |
-| HR_02| Ultrasonic Sensor|
-| HR_03| Servo Motor |
-| HR_04| C Language |
-| HR_05| simulIDE |
+|  ID  |   Discription  |status|
+|------|----------------|------|
+| HR_01| Arduino UNO    |Implemented|
+| HR_02| Ultrasonic Sensor|Implemented|
+| HR_03| Servo Motor |Implemented|
+| HR_04| C Language |Implemented|
+| HR_05| simulIDE |Implemented|
 
 ### LowLevel Requirements
-|  ID  |   Discription  | HR-ID |
-|------|----------------|-------|
-| LR_01|  Green Led(while close valve) | HR_01 |
-| LR_02|  Red Led(While close valve) | HR_01 |
-| LR_03|  Potentiometer(for measuring water tank) | HR_02 |
-| LR_04|  Open valve | HR_03|
-| LR_05|  Close valve| HR_03|
-| LR_06|  Jumper wires|     |
+|  ID  |   Discription  | HR-ID |Status|
+|------|----------------|-------|------|
+| LR_01|  Green Led(while close valve) | HR_01 |Implemented|
+| LR_02|  Red Led(While close valve) | HR_01 |Implemented|
+| LR_03|  Potentiometer(for measuring water tank) | HR_02 |Implemented|
+| LR_04|  Open valve | HR_03|Implemented|
+| LR_05|  Close valve| HR_03|Implemented|
+| LR_06|  Jumper wires|     |Implemented|
+## 4W'S & 1H 
+### WHO
+1 The project can be used almost by all the particular organization people.At the end,user satisfaction is the goal of the project.
+### WHAT
+1 By this project we can check the water level .
+### WHEN
+1 This can be used to check the level of water .
+### WHERE
+1  This can be used in Water tanks.
+### HOW
+This code is designed in such a way that we have to give certain input value upto which the water level is accepted (Threshold). when ever the water reaches the certain level it detects .It will detect by the Ultrasonic sensor which is having transmitter and reciever .If water reaches threshold it detects and elerts us.
